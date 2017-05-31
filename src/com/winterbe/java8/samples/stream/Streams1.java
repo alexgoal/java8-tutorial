@@ -10,7 +10,7 @@ import java.util.Optional;
 public class Streams1 {
 
     public static void main(String[] args) {
-
+        //sdfsdf
         List<String> stringCollection = new ArrayList<>();
         stringCollection.add("ddd2");
         stringCollection.add("aaa2");
